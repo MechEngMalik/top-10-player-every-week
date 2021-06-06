@@ -1,19 +1,13 @@
 
 alert("Hello football fans")
-// var lewandowski;
-// var de bruyn;
-// var haaland;
-// var cristiano ronaldo; 
-// var mbappe;
-// var van dijk;
-// var kimmich;
-// var mohamed salah;
-// var neymar;
-var messi;
+//  var names =[var lewandowski, de bruyn, haaland, cristiano ronaldo, mbappe, van dijk, kimmich, mohamed salah;neymar, messi]
+var messi 
+
 var person = prompt("who is your favorite player?");
 
-if (person = messi){
-  alert("your favorite player in our list ^_^.")}
+if (person = "messi" ){
+   alert("your favorite player is in our list ^_^.");}
+  else alert("Unfortunately, your favorite player is not on the list")
 // }else if (person =  mohamed salah){
 //   alert("your favorite player in our list ^_^.")
 // } else if (person =  mohamed salah){
